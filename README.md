@@ -1,6 +1,6 @@
 # Android
 
-###This is a basic project on android user interface
+### This is a basic project on android user interface
 
 #### Text view and image view are used here
 
